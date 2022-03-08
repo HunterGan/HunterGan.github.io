@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+hr {
+    align-items: center;
+    width: max-content;
+    height: 5px;
+}
+
+section {
+    background-color: aqua;
+    border-color: black;
+}
+
+h2 {
+    font-size: 80px;
+    text-align: right;
+    color: red;
+}
